@@ -98,23 +98,6 @@ Product page elements visibility
 
 This ensures the script is stable and reliable.
 
-✅ Assignment Requirements Mapping
-Requirement	Status
-Navigate to homepage	✅ Implemented
-Search for product	✅ Implemented
-Click first result	✅ Implemented
-Validate product page	✅ Implemented
-Use explicit waits	✅ Implemented
-Reusable methods	✅ Implemented
-Screenshot after validation	✅ Implemented
-📝 Notes
-
-The test is intentionally kept simple and readable
-
-No advanced framework (POM, BDD) is used as per assignment scope
-
-Suitable for interview demonstration & submission
-
 👤 Author
 
 Pratick
